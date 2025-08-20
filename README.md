@@ -18,7 +18,6 @@
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/HTML.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/CSS.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Javascript.jpg?raw=true" width="40" height="40"/>
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Pentest.jpg?raw=true" width="40" height="40"/>
 </p>
 
 <p align="center">
@@ -40,6 +39,7 @@
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/SQL.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Git.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Github.jpg?raw=true" width="40" height="40"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Pentest.jpg?raw=true" width="40" height="40"/>
 </p>
 
 <p align="center">
