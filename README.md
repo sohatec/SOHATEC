@@ -9,8 +9,7 @@
 </p>
 
 👨🏻‍🎓 I'm a student at **FPT University**, majoring in **Software Engineering**  
-💻 I'm passionate about **Software Engineering** and **Cyber Security**  
-🧠 Currently learning: **C**, **Java**, **HTML**, **CSS**, **JavaScript**  
+💻 I'm passionate about **Fullstack** and **Pentest**  
 🌱 Always curious and eager to discover new things in the world of tech  
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/C.jpg?raw=true" width="40" height="40"/>
@@ -26,10 +25,11 @@
 
 ### 🚀 Tech Stack 🚀
 
-- **Languages**: C, Java, HTML, CSS, JavaScript
-- **Web Development**: Node.js, React, Spring Boot, Bootstrap
+- **Languages**: C, Java, Python, HTML, CSS, JavaScript
+- **Web Development**: Node.js, React.js, Spring Boot, Bootstrap
 - **Databases**: SQL
 - **Version Control**: Git, GitHub
+- **Cybersecurity**: Pentest
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Bootstrap.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Git.jpg?raw=true" width="40" height="40"/>
