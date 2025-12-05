@@ -27,7 +27,7 @@
 
 - **Languages**: C, Java, HTML, CSS, JavaScript
 - **Web Development**: React.js, Spring
-- **Databases**: SQL, SQL Server
+- **Databases**: SQL
 - **Version Control**: Git, GitHub
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/React.jpg?raw=true" width="40" height="40"/>
