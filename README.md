@@ -9,7 +9,7 @@
 </p>
 
 👨🏻‍🎓 I'm a student at **FPT University**, majoring in **Software Engineering**  
-💻 I'm passionate about **Fullstack** and **Pentest**  
+💻 I'm passionate about **Fullstack** and **Pentester**  
 🌱 Always curious and eager to discover new things in the world of tech  
 
 <p align="center">
