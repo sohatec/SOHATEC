@@ -48,14 +48,6 @@ Stay tuned for real-world projects I'm building with modern web technologies ğŸš
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Blueline.jpg?raw=true" width="1200" height="4"/>
 </p>
 
-### ğŸ“Š GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henry-Lecode&show_icons=true&theme=radical" alt="Henry's GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yHenry-Lecode&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Whiteline.jpg?raw=true" width="1200" height="4"/>
 </p>
