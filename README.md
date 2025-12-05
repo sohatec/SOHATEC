@@ -11,13 +11,6 @@
 👨🏻‍🎓 I'm a student at **FPT University**, majoring in **Software Engineering**  
 💻 I'm passionate about **Fullstack** and **Pentest**  
 🌱 Always curious and eager to discover new things in the world of tech  
-<p align="center">
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/C.jpg?raw=true" width="40" height="40"/>
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Java.jpg?raw=true" width="40" height="40"/>
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/HTML.jpg?raw=true" width="40" height="40"/>
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/CSS.jpg?raw=true" width="40" height="40"/>
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Javascript.jpg?raw=true" width="40" height="40"/>
-</p>
 
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Blueline.jpg?raw=true" width="1200" height="4"/>
@@ -30,6 +23,11 @@
 - **Databases**: SQL
 - **Version Control**: Git, GitHub
 <p align="center">
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/C.jpg?raw=true" width="40" height="40"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Java.jpg?raw=true" width="40" height="40"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/HTML.jpg?raw=true" width="40" height="40"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/CSS.jpg?raw=true" width="40" height="40"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Javascript.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Spring.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/React.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/SQL.jpg?raw=true" width="40" height="40"/>
