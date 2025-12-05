@@ -14,7 +14,6 @@
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/C.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Java.jpg?raw=true" width="40" height="40"/>
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Python.jpg?raw=true" width="40" heigh="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/HTML.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/CSS.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Javascript.jpg?raw=true" width="40" height="40"/>
@@ -26,13 +25,11 @@
 
 ### 🚀 Tech Stack 🚀
 
-- **Languages**: C, Java, Python, HTML, CSS, JavaScript
-- **Web Development**: Node.js, React.js, Spring Boot, Bootstrap
-- **Databases**: SQL
+- **Languages**: C, Java, HTML, CSS, JavaScript
+- **Web Development**: React.js, Spring
+- **Databases**: SQL, SQL Server
 - **Version Control**: Git, GitHub
-- **Cybersecurity**: Pentest
 <p align="center">
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Node.js.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/React.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Spring%20boot.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Bootstrap.jpg?raw=true" width="40" height="40"/>
