@@ -31,12 +31,9 @@
 - **Version Control**: Git, GitHub
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/React.jpg?raw=true" width="40" height="40"/>
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Spring%20boot.jpg?raw=true" width="40" height="40"/>
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Bootstrap.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/SQL.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Git.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Github.jpg?raw=true" width="40" height="40"/>
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Pentest.jpg?raw=true" width="40" height="40"/>
 </p>
 
 <p align="center">
