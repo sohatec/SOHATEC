@@ -2,15 +2,14 @@
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Banner.jpg?raw=true" width="1200" height="300"/>
 </p>
 <h1 align="center">🎉 Welcome To Henry Lecode's Profile 🎉</h1>
-<h3 align="center">✨✨ Software Engineering Student | Fullstack Developer in Progress ✨✨</h3>
+<h3 align="center">✨ Software Engineering ✨</h3>
 
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Blueline.jpg?raw=true" width="1200" height="4"/>
 </p>
 
-👨🏻‍🎓 I'm a student at **FPT University**, majoring in **Software Engineering**  
-💻 I'm passionate about **Fullstack** and **Pentester**  
-🌱 Always curious and eager to discover new things in the world of tech  
+👨🏻‍🎓 I learned at **FPT University** 
+💻 I learn about **Backend Java** and **Web Pentest**  
 
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Blueline.jpg?raw=true" width="1200" height="4"/>
@@ -18,10 +17,8 @@
 
 ### 🚀 Tech Stack 🚀
 
-- **Languages**: C, Java, HTML, CSS, JavaScript
-- **Web Development**: React.js, Spring
-- **Databases**: SQL
-- **Version Control**: Git, GitHub
+C, Java, Spring, SQL Server, HTML, CSS, JS, Web Pentest, Git.
+
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/C.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Java.jpg?raw=true" width="40" height="40"/>
@@ -29,10 +26,8 @@
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/HTML.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/CSS.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Javascript.jpg?raw=true" width="40" height="40"/>
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/React.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/SQL.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Git.jpg?raw=true" width="40" height="40"/>
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Github.jpg?raw=true" width="40" height="40"/>
 </p>
 
 <p align="center">
