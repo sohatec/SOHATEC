@@ -34,14 +34,6 @@ C, Java, Spring, SQL Server, HTML, CSS, JS, Web Pentest, Git.
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Blueline.jpg?raw=true" width="1200" height="4"/>
 </p>
 
-### 📌 Featured Projects *(Coming soon)*
-
-Stay tuned for real-world projects I'm building with modern web technologies 🚀
-
-<p align="center">
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Blueline.jpg?raw=true" width="1200" height="4"/>
-</p>
-
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Whiteline.jpg?raw=true" width="1200" height="4"/>
 </p>
