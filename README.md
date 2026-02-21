@@ -9,7 +9,7 @@
 </p>
 
 👨🏻‍🎓 I learned at **FPT University** 
-💻 I learn about **Backend Java** and **Web Pentest**  
+💻 I learn about **Backend Java**, **Frontend** and **BSCP**  
 
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Blueline.jpg?raw=true" width="1200" height="4"/>
@@ -17,7 +17,7 @@
 
 ### 🚀 Tech Stack 🚀
 
-C, Java, Spring, SQL Server, HTML, CSS, JS, Web Pentest, Git.
+C, Java, Spring Framework, SQL Server, HTML, CSS, JS, React, BSCP, Git.
 
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/C.jpg?raw=true" width="40" height="40"/>
