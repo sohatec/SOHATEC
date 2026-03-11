@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Banner.jpg?raw=true" width="1200" height="300"/>
 </p>
-<h1 align="center">🎉 Welcome To Henry Lecode's Profile 🎉</h1>
+<h1 align="center">🎉 Welcome To SOHATEC's Profile 🎉</h1>
 <h3 align="center">✨ Software Engineering ✨</h3>
 
 <p align="center">
@@ -38,13 +38,13 @@ C, Java, Spring Framework, SQL Server, HTML, CSS, JS, React, BSCP, Git.
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Whiteline.jpg?raw=true" width="1200" height="4"/>
 </p>
 
-📧 Email: [Click here to contact](mailto:minhphuoc10.24@gmail.com)  
-💌 Email: minhphuoc10.24 [at] gmail [dot] com
+📧 Email: [Click here to contact](mailto:info@sohatec.com)  
+💌 Email: info [at] sohatec [dot] com
 
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Whiteline.jpg?raw=true" width="1200" height="4"/>
 </p>
 
-<h3 align="center"> ⭐⭐ **Learning - Comparison - Development** ⭐⭐</h3>
+<h3 align="center"> ⭐⭐ **Software - Hardware - Technology** ⭐⭐</h3>
 <h3 align="center"> ⭐⭐ **PURSUING PASSION** ⭐⭐</h3>
 
