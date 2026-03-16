@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Banner.jpg?raw=true](https://github.com/sohatec/SOHATEC/blob/main/BenerSohatec.png)" width="1200" height="300"/>
+  <img src="https://github.com/sohatec/SOHATEC/blob/main/BenerSohatec.png" width="1200" height="300"/>
 </p>
 <h1 align="center">🎉 Welcome To SOHATEC's Profile 🎉</h1>
 <h3 align="center">✨ Software Engineering ✨</h3>
