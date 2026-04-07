@@ -17,7 +17,7 @@
 
 ### 🚀 Tech Stack 🚀
 
-C, Java, Spring Framework, SQL Server, HTML, CSS, JS, React, BSCP, Git.
+C, Java, Spring, SQL Server, HTML, CSS, JS, React, BSCP, Git.
 
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/C.jpg?raw=true" width="40" height="40"/>
