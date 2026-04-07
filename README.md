@@ -17,16 +17,16 @@
 
 ### 🚀 Tech Stack 🚀
 
-C, Java, Spring, SQL Server, HTML, CSS, JS, React, BSCP, Git.
+C, Java, Spring, SQL Server, HTML, CSS, JS, BSCP, Docker, Git.
 
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/C.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Java.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Spring.jpg?raw=true" width="40" height="40"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/SQL.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/HTML.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/CSS.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Javascript.jpg?raw=true" width="40" height="40"/>
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/SQL.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/sohatec/SOHATEC/blob/main/BurpSuite.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/sohatec/SOHATEC/blob/main/Docker.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Git.jpg?raw=true" width="40" height="40"/>
